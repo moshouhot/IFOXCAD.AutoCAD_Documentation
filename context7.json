@@ -1,0 +1,15 @@
+{
+    "$schema": "https://context7.com/schema/context7.json",
+    "projectTitle": "IFoxCAD.AutoCAD 库",
+    "description": "IFoxCAD.AutoCAD 是一个基于 .NET 的 AutoCAD 二次开发类库，旨在简化和增强 AutoCAD 应用程序开发",
+    "folders": [],
+    "excludeFolders": [],
+    "excludeFiles": [],
+    "rules": [],
+    "previousVersions": [
+      {
+        "tag": "v0.9.6",
+        "title": "version 0.9.6"
+      }
+    ]
+  }
